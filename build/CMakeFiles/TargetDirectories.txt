@@ -1,0 +1,3 @@
+/home/david/Http_server/codecrafters-http-server-c/build/CMakeFiles/http-server.dir
+/home/david/Http_server/codecrafters-http-server-c/build/CMakeFiles/edit_cache.dir
+/home/david/Http_server/codecrafters-http-server-c/build/CMakeFiles/rebuild_cache.dir
